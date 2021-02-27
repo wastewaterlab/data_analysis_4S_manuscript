@@ -1,0 +1,18 @@
+plate_id,plate_file_name,Plate_date,assays,description,rxn_volume,template_volume,plate_notes
+12,062620_N1_P12,6/26/20,N1,samples,20,5,
+16,070120_N1_P16,7/1/20,N1,samples,20,5,
+17,070320_PMMoV_P17,7/3/20,PMMoV,samples,20,5,
+20,071720_N1_P20,7/17/20,N1,"samples, heat inactivation experiment, temp exposure experiment",20,5,
+21,072020_N1_P21,7/21/20,N1,"samples, amicon experiment",20,5,
+22,072120_PMMOV_P22,7/20/20,PMMoV,"samples, heat inactivation experiment, temp exposure experiment",20,5,
+23,072120_PMMOV_P23,7/21/20,PMMoV,"samples, amicon experiment",20,5,
+27,072820_N1_P27,7/28/20,N1,samples,20,5,
+28,072820_PMMoV_P28,7/28/20,PMMoV,samples,20,5,
+32,073120_bCoV_P32,7/31/20,bCoV,backlog or bCoV samps,20,5,
+34,080520_N1_buffer_inhibition_testing_P34,8/5/20,N1,buffer volume test -- inhibition,20,5,
+35,080520_bCoV_buffer_inhibition_testing_P35,8/5/20,bCoV,buffer volume test -- inhibition,20,5,needed to calculate quantity using a different standard curve
+36,080520_PMMoV_buffer_inhibition_testing_P36,8/5/20,PMMoV,buffer volume test -- inhibition,20,5,
+37,080520_N1_buffer_test_P37,8/5/20,N1,buffer volume test -- sample quantification,20,5,
+38,080520_bCoV_buffer_test_P38,8/5/20,bCoV,buffer volume test -- sample quantification,20,5,needed to calculate quantity using a different standard curve
+39,080520_PMMoV_buffer_test_P39,8/5/20,PMMoV,buffer volume test -- sample quantification,20,5,
+59,P59_18S,8/28/20,18S,samples,20,5,
